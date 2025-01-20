@@ -90,7 +90,7 @@ The dataset includes the following fields:
 
 3. Open the Jupyter Notebook:
    ```bash
-  
+  https://github.com/BamiseOmolaso/Amdari-Project-1-Cohort-Analysis/blob/main/cohort_analysis_solution.ipynb
    ```
 
 4. Follow the notebook to reproduce the analysis and explore the insights.
