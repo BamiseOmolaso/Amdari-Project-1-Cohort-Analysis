@@ -106,5 +106,5 @@ The dataset includes the following fields:
 - Explore advanced models such as DBSCAN or hierarchical clustering for better segmentation.
 
 ## Contributors
-This project was developed by:
+This project was an improvement on the Amdari Cohort Analysis guide by:
 - **[Bamise Omolaso](https://github.com/BamiseOmolaso)**
