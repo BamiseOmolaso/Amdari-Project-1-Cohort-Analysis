@@ -90,7 +90,7 @@ The dataset includes the following fields:
 
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook cohort_analysis_solution.ipynb
+  
    ```
 
 4. Follow the notebook to reproduce the analysis and explore the insights.
@@ -107,7 +107,4 @@ The dataset includes the following fields:
 
 ## Contributors
 This project was developed by:
-- **[Your Name](https://github.com/BamiseOmolaso)**
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- **[Bamise Omolaso](https://github.com/BamiseOmolaso)**
